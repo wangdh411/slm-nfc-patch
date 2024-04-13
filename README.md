@@ -1,2 +1,2 @@
 # slm-nfc-patch
-slm nfc support base on NXP nfc protocol
+add slm nfc chip support base on NXP nfc protocol
