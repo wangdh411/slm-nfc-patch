@@ -1,8 +1,3 @@
-From 1c78538f8486adb9a497ab46b8cdab2ee92bfbb9 Mon Sep 17 00:00:00 2001
-From: "terry.wang" <dahua.wang@smartlinkmicro.com>
-Date: Fri, 10 Nov 2023 03:30:55 +0000
-Subject: [PATCH] add slm nfc chip support
-
 ---
  nxp/common.c  | 72 +++++++++++++++++++++++++++++++++++++++++++++++++++
  nxp/common.h  |  2 ++
